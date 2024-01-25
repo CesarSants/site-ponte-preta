@@ -292,9 +292,9 @@ footer {
     position: fixed;
     bottom: 0;
     right: 0;
-    background-color: rgba(0, 0, 0, 0); /* Cor de fundo do footer, ajuste conforme desejar */
-    padding: 10px; /* Espaçamento interno do footer, ajuste conforme desejar */
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0); /* Adicione sombra se desejar */
+    background-color: rgba(0, 0, 0, 0); 
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
 }
 
 .centralizar {
